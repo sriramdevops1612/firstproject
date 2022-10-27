@@ -1,4 +1,4 @@
-[Google](https://www.gogle.com/google/ "Visit Google!")
+[Google](https://www.gogle.com/google/)
 
 <!---
 your comment goes here
@@ -11,27 +11,6 @@ ___
 ***
 
 ~~Students~~ _are_ **bad**
-
-
->tesing this page. this is looking great
->> they are great
-
->>>Neurotransmitter-gated ion channels of the Cys-loop receptor family are essential
-mediators of fast neurotransmission throughout the nervous system and are implicated
-in many neurological disorders.# firstproject
-
->>>>Neurotransmitter-gated ion channels of the Cys-loop receptor family are essential
-mediators of fast neurotransmission throughout the nervous system and are implicated
-in many neurological disorders.
-
->>>>>Neurotransmitter-gated ion channels of the Cys-loop receptor family are essential
-mediators of fast neurotransmission throughout the nervous system and are implicated
-in many neurological disorders.
-
->>>>>>Neurotransmitter-gated ion channels of the Cys-loop receptor family are essential
-mediators of fast neurotransmission throughout the nervous system and are implicated
-in many neurological disorders.
-
 
 
 > **Note**
@@ -107,11 +86,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
    - First nested list item
      - Second nested list item
 ---
-| Number  |    Points       |
-| ------  | -----------     |
-|   1     | Eve Jackson 94  |
-|   2     | John Doe 80     |
-|   3     | Adam Johnson 67 |
+| Number  |    Points       |             link                           |
+| ------  | -----------     | -------------------------------------------|
+|   1     | Eve Jackson 94  |[Eve addreess](https://www.gogle.com/google/) |
+|   2     | John Doe 80     |[John address](https://www.gogle.com/google/) |
+|   3     | Adam Johnson 67 |[Adam Address](https://www.gogle.com/google/) |
 ---
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit: :shushing_face:
@@ -127,4 +106,4 @@ This site was built using [GitHub Pages](https://pages.github.com/).
     - Indented item
 - Fourth item
 ---
-![test123](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+![image text](https://user-images.githubusercontent.com/711743/96873062-bcb9ff00-1474-11eb-8594-07267b601db6.gif)
