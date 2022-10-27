@@ -1,3 +1,4 @@
+[Google](https://www.gogle.com/google/ "Visit Google!")
 
 <!---
 your comment goes here
@@ -93,7 +94,37 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - John Adams
 - Thomas Jefferson
 
-- [ ] George Washington
-- [ ] John Adams
+- [x] George Washington
+- [x] John Adams
 - [ ] Thomas Jefferson
 
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+---
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+---
+| Number  |    Points       |
+| ------  | -----------     |
+|   1     | Eve Jackson 94  |
+|   2     | John Doe 80     |
+|   3     | Adam Johnson 67 |
+---
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit: :shushing_face:
+
+####EMOJI cheat sheet
+[Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+---
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+---
+![test123](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
